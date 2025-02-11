@@ -1,7 +1,5 @@
-
 import streamlit as st
 from PIL import Image
-import os
 
 # Set page title and layout
 st.set_page_config(page_title="Stroke Economic Burden Analysis", layout="wide")
